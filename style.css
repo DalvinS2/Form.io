@@ -1,0 +1,66 @@
+body{
+     background-image: url(img/pexels-veeterzy-39811.jpg);
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     text-align: center;
+}
+
+h1{
+    color: white;
+    font-size: 25px;
+    font-family: 'LEMON MILK';
+    
+}
+.cuadro-form{
+    background-color: rgba(32, 28, 28, 0.7);
+    border-radius: 18px;
+    margin: 0% auto;
+    width: 500px;
+    padding: 15px;
+    font-size: 25px;
+    color: white;
+    box-shadow: 25px 10px 25px 10px rgba(0, 0, 0, 0.3);
+    border: 1 solid #ccc;
+    font-family: sans-serif;
+
+}
+
+span{
+    color: orange;
+}
+
+input{
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 14px;
+    border: 0 solid white;
+}
+
+.btn{
+  padding: 10px 15px;
+  margin: 5px;
+  border-radius: 18px;
+  background-color: white;
+  border: 0 solid white;
+}
+
+.btn:hover{
+    background-color: rgba(0, 0, 0, 0.253);
+}
+
+.btn:active{
+    background-color: rgba(0, 0, 0, 0.705);
+}
+
+footer{
+    text-align: center;
+    background-color: rgba(32, 28, 28, 0.7);
+}
+
+h3{
+    text-align: center;
+    margin: 0% auto;
+    color: white;
+    font-size: 19px;
+    font-family: sans-serif;
+}
